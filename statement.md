@@ -50,36 +50,9 @@ Input Validation
 •	Insufficient stock is detected.
 •	Invalid product names are rejected.
 •	Mobile number length is checked.
-## Main User Workflow
-             Start
-  	↓
-Display Products & Stock
-  	↓
-Enter Customer Details
-  	↓
-Select Product
-  	↓
-Enter Quantity
-  	↓
-Validate Quantity
-  	↓
-Check Stock
-  	↓
-Add to Cart
- ↓
-View / Remove / Continue Shopping
- ↓
-Enter "done"
-  	↓
-Generate Bill
-  	↓
-Calculate Total
-                 ↓
-Check Discount Condition
-                 ↓
-Display Final Amount
-                 ↓
-End
+
+ 
+
 
 ## Python Concepts Used
 The project uses concepts relevant to Python Essentials, including:
