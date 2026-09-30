@@ -120,6 +120,7 @@ Grocery-Shopping-Billing-System/
 1. main.py
 2. README.md
 3. statement.md
+
 The current implementation is provided in main.py. The README and statement files provide the project documentation required for the GitHub repository.
 ## Design and Documentation
 The project documentation covers:
