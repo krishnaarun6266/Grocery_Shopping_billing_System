@@ -116,10 +116,10 @@ TC11	Total below ₹5000	No 10% discount
 TC12	Total ₹5000 or above	10% discount is applied
 ## Project Structure
 Grocery-Shopping-Billing-System/
-│
-├── main.py
-├── README.md
-└── statement.md
+
+1. main.py
+2. README.md
+3. statement.md
 The current implementation is provided in main.py. The README and statement files provide the project documentation required for the GitHub repository.
 ## Design and Documentation
 The project documentation covers:
