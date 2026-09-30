@@ -4,7 +4,7 @@ Grocery Shopping Billing System
 ## Project Overview
 The program maintains a list of grocery products with their prices and available stock. A user can enter their name and mobile number, select products, enter quantities, view the cart, remove items from the cart, and complete the purchase. The program calculates the amount for each selected product and generates a final bill.
 The project is implemented using core Python concepts such as dictionaries, loops, conditional statements, functions, user input, exception handling, and basic calculations.
-##3. Problem Statement
+##  Problem Statement
 In a grocery shopping environment, customers need to select required products, check available quantities, calculate the cost of their purchases, and receive a final bill. Performing these calculations manually can be time-consuming and may lead to calculation errors.
 This project provides a simple Python-based solution that manages product prices and stock, allows customers to create a shopping cart, calculates item-wise costs, and generates the final payable amount.
 ## Objectives
