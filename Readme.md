@@ -53,45 +53,8 @@ The program displays:
 •	Total bill amount
 •	Discount information, when applicable
 •	Final payable amount
-## Project Workflow
-Start
-  v
-Display Products and Stock
-  v
-Enter Customer Name and Mobile Number
-  v
-Select Product / View Cart / Remove Item / Finish
-  v
-  +----> Select Product
-  |          |
-  |          v
-  |      Enter Quantity
-  |          |
-  |          v
-  |      Check Stock
-  |       /       \
-  |    Available  Not Available
-  |       |           |
-  |       v           v
-  |   Add to Cart   Show Message
-  |
-  +----> View Cart
-  |
-  +----> Remove Item
-  |
-  +----> Done
-             |
-             v
-        Generate Bill
-             |
-             v
-       Check Discount
-             |
-             v
-       Display Final Total
-             |
-             v
-            End
+
+ 
 ## Non-Functional Requirements
 ### Usability
 The program uses simple text-based input and clear messages so that a user can understand the available operations.
